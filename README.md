@@ -1,2 +1,3 @@
-# map-of-collaborations.github.io
-2019 igem wiki content
+# Collaborations Map
+
+See page at https://igem-waterloo.github.io/map-of-collaborations/
